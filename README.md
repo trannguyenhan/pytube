@@ -18,5 +18,5 @@ python3 main.py
 
 See demo video in:
 
-[![demo](./demo.png)](https://dai.ly/x91q186)
+[![demo](./demo.jpg)](https://dai.ly/x91q186)
 
