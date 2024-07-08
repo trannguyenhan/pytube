@@ -14,3 +14,9 @@ pip install pytube
 python3 main.py
 ```
 
+### Demo
+
+See demo video in:
+
+[![demo](./demo.png)](https://dai.ly/x91q186)
+
